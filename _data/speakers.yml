@@ -8,8 +8,11 @@
   thumbnailUrl: speaker_carlos_mota.jpg
   rockstar: true
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/113424350630896111871/posts"}
     - {name: "twitter", link: "https://twitter.com/cafonsomota"}
-- 
+    - {name: "github", link: "https://github.com/cmota"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/pub/carlos-mota/50/4b1/43"}
+-
   id: 2
   name: "Soon"
   surname: "..."

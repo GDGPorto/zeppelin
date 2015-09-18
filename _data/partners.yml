@@ -5,11 +5,11 @@
 - 
   group: "Gold Sponsor"
   elements: 
-    - {name: "Mindera", description: "Mindera", link: "https://www.mindera.com", imageUrl: "mindera.png"}
+    - {name: "Mindera", description: "Mindera", link: "http://www.mindera.com", imageUrl: "mindera.png"}
 - 
   group: "Bronze Sponsor"
   elements: 
-    - {name: "Edigma", description: "Edigma", link: "https://www.edigma.com", imageUrl: "edigma.png"}
+    - {name: "Edigma", description: "Edigma", link: "http://www.edigma.com", imageUrl: "edigma.png"}
 - 
   group: "With support of"
   elements: 

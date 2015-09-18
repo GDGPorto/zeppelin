@@ -11,3 +11,11 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+zeppelin.iml
