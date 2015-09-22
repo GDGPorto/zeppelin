@@ -21,3 +21,7 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+- 
+  group: "Media partners"
+  elements: 
+    - {name: "Aberto até de Madrugada", description: "Aberto até de Madrugada", link: "https://www.abertoatedemadrugada.com", imageUrl: "media1.svg"}
