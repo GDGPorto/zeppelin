@@ -10,7 +10,7 @@
 - 
   group: "Bronze Sponsor"
   elements: 
-    - {name: "Edigma", description: "Edigma", link: "http://www.edigma.com", imageUrl: "edigma.ai"}
+    - {name: "Edigma", description: "Edigma", link: "http://www.edigma.com", imageUrl: "edigma.svg"}
     - {name: "itJobs", description: "itJobs", link: "http://www.itjobs.com", imageUrl: "itjobs.png"}
 - 
   group: "With support of"
