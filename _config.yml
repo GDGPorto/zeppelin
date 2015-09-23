@@ -134,17 +134,17 @@ subscribeInfo: "Registration will be open around middle of September. Number of 
 
 # Tickets Block
 ticketsTitle: "Tickets information"
-ticketsInfo: "Tickets will be available on 17th September. They will grant access to all conference sections, hands-on, lunch and coffee breaks. Accommodation is NOT included."
+ticketsInfo: "We're sold out!"
 ticketsOffers:
  -
   name: "DevFest Ticket"
   price: "0"
   priceCurrency: "€"
-  ticketsNumber: "80"
+  ticketsNumber: "0"
   ribbon: "-100%"
-  buyButtonLink: "http://www.last2ticket.com/ev1317-Bilhetes-Online-GDG-DevFest-Porto-2015"
-  buyButtonText: "Buy ticket"
-  ticketContentList: ["Available on 17th of September", "Just 80 tickets available", "Don't miss this opportunity!"]
+  buyButtonLink: "javascript:alert('We're sold out!');"
+  buyButtonText: "We're sold out!"
+  ticketContentList: ["If you didn't got a ticket, subscribe to our newsletter for future events news"]
   validFrom: "2015-09-17T10:00"
   validThrough: "2015-10-16T23:59"
 
