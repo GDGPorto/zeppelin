@@ -14,15 +14,18 @@
     - {name: "linkedin", link: "https://pt.linkedin.com/pub/carlos-mota/50/4b1/43"}
 -
   id: 2
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
-  rockstar: false
+  name: "José"
+  surname: "Silva"
+  company: "Building Web Enterprise Class Apps with Angular 2"
+  title: "Software Engineer"
+  bio: "José believes that music is the key to solving all problems. If you find someone in our offices waving his arms at the sound a good song you probably have met José. \nHe has been developing mobile applications for 5 years and enterprise applications for the last 2. He developed his first mobile enterprise application during his Masters in Informatics and Computer Engineering at University of Porto and is working at Critical Manufacturing since 2013. \nHe currently leads the amazing team of engineers and designers working on the new cmNavigo’s interface and is part of the Navigo’s core development and support team. \nWhen he is not working you can find him volunteering for IEEE as Portugal Section Vice-Chair or playing tuba at several music ensembles in north Portugal."
+  thumbnailUrl: speaker_jose_silva.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoséPedroSilva_jpsfs/"}
+    - {name: "twitter", link: "http://twitter.com/jpsfs"}
+    - {name: "github", link: "https://github.com/jpsfs"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/in/jpsfs/en"}
 - 
   id: 3
   name: "Soon"

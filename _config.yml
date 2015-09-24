@@ -134,7 +134,7 @@ subscribeInfo: "Registration will be open around middle of September. Number of 
 
 # Tickets Block
 ticketsTitle: "Tickets information"
-ticketsInfo: "We're sold out!"
+ticketsInfo: "Sorry our 80 tickets flew really fast, but don't worry this is just the start for GDG Porto's events!"
 ticketsOffers:
  -
   name: "DevFest Ticket"
@@ -143,7 +143,7 @@ ticketsOffers:
   ticketsNumber: "0"
   ribbon: "-100%"
   buyButtonLink: "javascript:alert(':-( sorry, we are really sold out!');"
-  buyButtonText: "Sorry our 80 tickets flew really fast, but don't worry this is just the start for GDG Porto's events!"
+  buyButtonText: "We're sold out!"
   ticketContentList: ["If you didn't got a ticket, subscribe to our newsletter for future events news"]
   validFrom: "2015-09-17T10:00"
   validThrough: "2015-10-16T23:59"
