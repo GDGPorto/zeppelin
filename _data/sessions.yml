@@ -7,7 +7,6 @@
   speakers: [10]
   language: en
   complexity: "Beginner"
-  video: "#"
 -
   id: 001
   title: "Android TV Strangelove"
@@ -16,7 +15,6 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: "#"
 -
   id: 002
   title: "Building Web Enterprise Class Apps with Angular 2"
@@ -25,7 +23,6 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: "#"
 -  
   id: 100
   title: "Coffee Break"
