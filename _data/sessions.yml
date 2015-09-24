@@ -15,6 +15,7 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
+  video: "//www.youtube.com/embed/ASZbArr7vdI"
 -
   id: 002
   title: "Building Web Enterprise Class Apps with Angular 2"
@@ -23,6 +24,7 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
+  video: "//www.youtube.com/embed/k4qVkWh1EAo"
 -  
   id: 100
   title: "Coffee Break"
