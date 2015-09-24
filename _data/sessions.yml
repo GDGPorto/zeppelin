@@ -18,13 +18,13 @@
   video: "//www.youtube.com/embed/ASZbArr7vdI"
 -
   id: 002
-  title: "Building Web Enterprise Class Apps with Angular 2"
+  title: "Angular 2 - Building Enterprise Apps"
   description: "<p>In a rapidly changing environment as is the Web, developing enterprise applications, destined to be in production for decades, is a serious undertaking. Choosing the right framework to work with can have the same impact as choosing the person you will be marrying: have you thought that it may be easier to change spouses than replacing an entire enterprise system?</p><p>At Critical Manufacturing we are building the next generation of our flagship product cmNavigo for the web and mobile devices. Using Angular 2, Typescript and Flux at its core, the new cmNavigo interface is designed to be used 24/7 by thousands of users every day in cross-platform and different size form devices across the world.</p><p>In this talk I will share the latest development challenges we are facing and how we are modeling the system to have the performance and stability our customers demand. We will explore how Angular 2 latest alphas are helping us moving in the right direction, embracing new standards and how we are managing our development environments to increase productivity.</p>"
   subtype: presentation
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/k4qVkWh1EAo"
+  video: "//www.youtube.com/embed/3e1LK1KMCr0"
 -  
   id: 100
   title: "Coffee Break"
