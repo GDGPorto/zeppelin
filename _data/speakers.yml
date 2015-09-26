@@ -28,16 +28,17 @@
     - {name: "linkedin", link: "https://pt.linkedin.com/in/jpsfs/en"}
 - 
   id: 3
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
-  rockstar: false
+  name: "Víctor"
+  surname: "Sanchéz"
+  company: "WebComponentes, Polymer and the new web"
+  title: "CEO"
+  bio: "<p>Víctor is a developer, lecturer and entrepreneur. He runs his own company called MashMeTV that provides video collaboration applications to more than 800,000 users in 71 countries.</p><p>His new obsession is HTML5 and client-side applications. For the last couple of years, Víctor has been organizing tech events and conferences for kids and adults at places like HTML5 vs Android, Hack4Good Spain, HTML5Party, Iniciador Kids and others – in order to extend computer science and STEM. Recently appointed Google Developer Expert in HTML5."
+  thumbnailUrl: speaker_victor_sanchez.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
-- 
+    - {name: "google-plus", link: "https://plus.google.com/+V%C3%ADctorS%C3%A1nchezBelmar/posts"}
+    - {name: "twitter", link: "https://twitter.com/VictorSanchez"}
+-
   id: 4
   name: "Soon"
   surname: "..."

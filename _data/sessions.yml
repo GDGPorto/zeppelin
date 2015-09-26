@@ -36,7 +36,7 @@
   title: "To be announced"
   description: "To be announced."
   subtype: presentation
-  speakers: [3]
+  speakers: [5]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/dQw4w9WgXcQ"
@@ -57,13 +57,13 @@
   service: true  
 -
   id: 005
-  title: "To be announced"
-  description: "To be announced."
+  title: "WebComponentes, Polymer and the new web"
+  description: "<p>During this talk Google Developer Expert Víctor Sánchez will talk about web components, and an amazing library to build on them, Polymer.</p><p>With its brand new version Polymer 1.0 will be able to put back engineering into the web platform at blazing speed.</p><p>As we see it web components are the building blocks of the future. Do you want a ride?</p>"
   subtype: presentation
-  speakers: [5]
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
+  complexity: "Beginner"
+  video: "//www.youtube.com/embed/Vc1aS_EPOmo"
 -
   id: 006
   title: "To be announced"
