@@ -2,7 +2,7 @@
   id: 1
   name: "Carlos"
   surname: "Mota"
-  company: "Android TV Strangelove"
+  company: "WIT Software"
   title: "Software Engineer"
   bio: "<p>Carlos is a strong believer that the answer to life, the universe and everything is 42. </p><p>He has been developing mobile applications for 4 years now. He first met Android during his master thesis at the University of Coimbra, Portugal – it was wa rough start (although way better than Java ME); Cupcake was still on an early stage but since then we’ve come a long way and it is now a breeze developing for Lollipop – with an extraordinary new (material) design - and at the time of this writing, to Marshmallow. </p><p>        Working at WIT Software he has been developing several applications – currently you can find him working on the company RCSe applications for Android.</p>"
   thumbnailUrl: speaker_carlos_mota.jpg
@@ -16,7 +16,7 @@
   id: 2
   name: "José"
   surname: "Silva"
-  company: "Angular 2 - Building Enterprise Apps"
+  company: "Critical Manufacturing"
   title: "Software Engineer"
   bio: "<p>José believes that music is the key to solving all problems. If you find someone in our offices waving his arms at the sound a good song you probably have met José. </p><p>He has been developing mobile applications for 5 years and enterprise applications for the last 2. He developed his first mobile enterprise application during his Masters in Informatics and Computer Engineering at University of Porto and is working at Critical Manufacturing since 2013. </p><p>He currently leads the amazing team of engineers and designers working on the new cmNavigo’s interface and is part of the Navigo’s core development and support team. </p><p>When he is not working you can find him volunteering for IEEE as Portugal Section Vice-Chair or playing tuba at several music ensembles in north Portugal.</p>"
   thumbnailUrl: speaker_jose_silva.jpg
@@ -30,9 +30,9 @@
   id: 3
   name: "Víctor"
   surname: "Sanchéz"
-  company: "WebComponentes, Polymer and the new web"
-  title: "CEO"
-  bio: "<p>Víctor is a developer, lecturer and entrepreneur. He runs his own company called MashMeTV that provides video collaboration applications to more than 800,000 users in 71 countries.</p><p>His new obsession is HTML5 and client-side applications. For the last couple of years, Víctor has been organizing tech events and conferences for kids and adults at places like HTML5 vs Android, Hack4Good Spain, HTML5Party, Iniciador Kids and others – in order to extend computer science and STEM. Recently appointed Google Developer Expert in HTML5."
+  company: "MashMeTV"
+  title: "Google Developer Expert and CEO"
+  bio: "<p>Víctor is a developer, lecturer and entrepreneur. He runs his own company called MashMeTV that provides video collaboration applications to more than 800,000 users in 71 countries.</p><p>His new obsession is HTML5 and client-side applications. For the last couple of years, Víctor has been organizing tech events and conferences for kids and adults at places like HTML5 vs Android, Hack4Good Spain, HTML5Party, Iniciador Kids and others – in order to extend computer science and STEM.</p><p>Recently appointed Google Developer Expert in HTML5.</p>"
   thumbnailUrl: speaker_victor_sanchez.jpg
   rockstar: true
   social: 
