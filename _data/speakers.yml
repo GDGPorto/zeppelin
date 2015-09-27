@@ -35,6 +35,8 @@
   bio: "<p>Víctor is a developer, lecturer and entrepreneur. He runs his own company called MashMeTV that provides video collaboration applications to more than 800,000 users in 71 countries.</p><p>His new obsession is HTML5 and client-side applications. For the last couple of years, Víctor has been organizing tech events and conferences for kids and adults at places like HTML5 vs Android, Hack4Good Spain, HTML5Party, Iniciador Kids and others – in order to extend computer science and STEM.</p><p>Recently appointed Google Developer Expert in HTML5.</p>"
   thumbnailUrl: speaker_victor_sanchez.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/v-ctor-s-nchez-belmar"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+V%C3%ADctorS%C3%A1nchezBelmar/posts"}
     - {name: "twitter", link: "https://twitter.com/VictorSanchez"}
