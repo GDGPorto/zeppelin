@@ -12,6 +12,7 @@
   elements: 
     - {name: "Edigma", description: "Edigma", link: "http://www.edigma.com", imageUrl: "edigma.svg"}
     - {name: "ITJobs", description: "ITJobs", link: "http://www.itjobs.pt", imageUrl: "itjobs.png"}
+    - {name: "Sapo", description: "Sapo", link: "http://www.sapo.pt", imageUrl: "sapo.png"}
 - 
   group: "With support of"
   elements: 
