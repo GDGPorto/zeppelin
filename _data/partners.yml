@@ -8,6 +8,10 @@
     - {name: "Mindera", description: "Mindera", link: "http://www.mindera.com", imageUrl: "mindera.png"}
     - {name: "Critical Manufactoring", description: "Critical Manufactoring", link: "http://www.criticalmanufacturing.com", imageUrl: "critical.png"}
 - 
+  group: "Silver Sponsor"
+  elements: 
+    - {name: "i2S", description: "i2S", link: "http://www.i2S.pt", imageUrl: "i2s.png"}
+- 
   group: "Bronze Sponsor"
   elements: 
     - {name: "Edigma", description: "Edigma", link: "http://www.edigma.com", imageUrl: "edigma.svg"}
