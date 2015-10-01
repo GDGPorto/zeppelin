@@ -19,7 +19,13 @@
                         {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
+                                {% if speaker.name1 != null %}
+                                <h2 class="name" style="margin-top: -6px">{{ speaker.name1 }} <span>{{ speaker.surname1 }}</span></h2>
+                                <h2 class="name">{{ speaker.name2 }} <span>{{ speaker.surname2 }}</span></h2>
+                                {% endif %}
+                                {% if speaker.name1 == null %}
                                 <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                {% endif %}
                                 <div class="clearfix"></div>
                                 <span class="position">{{ speaker.company }}</span>
                             </div>

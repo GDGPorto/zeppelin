@@ -42,26 +42,27 @@
     - {name: "twitter", link: "https://twitter.com/VictorSanchez"}
 -
   id: 4
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+  name1: "Sofia"
+  name2: "Fábio"
+  surname1: "Rodrigues"
+  surname2: "Alves"
+  company: "i2S"
+  title: "UX Expert"
+  bio: "<p>Sofia is an Usability and UX expert. In 2004 she began working in the media and design for dFUSION, an advertising agency, working in design, web application development, marketing, among others.</p><p>In 2009 she had the opportunity to start collaborating with i2S, specializing in myGIS portal interface, in the last to years she has launched the UX area for i2S.</p><p>Completely crazy, says many bad words, colleagues like to say ''Bom dia, Sofia'' regardless of time of day, is treated as ''one of the guys'' and is said to be pregnant for more than three years!</p><p><br/></p><p>Fábio is a frontend specialist and is reading for his Masters in Architecture, Systems and Networks. In 2011 he started the collaboration with i2S, usability team where he exudes AngularJS every day.</p><p>He aims to finish his thesis before retirement. Do not talk to him before 10 am, or call him to congratulate him on his birthday before 4PM. There is a  rumor that his ''boss'' hits him and recently hired a karate specialist to help her!</p>"
+  thumbnailUrl: speaker_sofia_fabio1.JPG
+  rockstar: true
 - 
   id: 5
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
-  rockstar: false
+  name: "Miriam"
+  surname: "Lopes"
+  company: "WIT Software"
+  title: "QA Engineer"
+  bio: "<p>Miriam once dreamed about becoming a well-known writer. Well... that didn't worked out.</p><p>Now, she is a QA Engineer at WIT Software and the things she writes are test plans, test automation scripts and test reports. She has been testing over the past few years, manually and automatically, several Android applications that are used by millions of people worldwide.</p><p>As a part of WIT Software, she believes that good is not enough and that is why the pursuit for excellence is the every day challenge. Breaking applications can be fun, but the main goal is to deliver software that is compliant with WIT high quality standards."
+  thumbnailUrl: speaker_miriam_lopes.JPG
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+    - {name: "google-plus", link: "https://plus.google.com/+Miriamlopesgoogle"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miriamlopes"}
 - 
   id: 6
   name: "Soon"

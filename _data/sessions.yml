@@ -33,22 +33,22 @@
   service: true  
 -
   id: 003
-  title: "To be announced"
-  description: "To be announced."
-  subtype: presentation
-  speakers: [5]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
--
-  id: 004
-  title: "To be announced"
-  description: "To be announced."
+  title: "Cardboard, a user's perspective"
+  description: "<p>Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?</p>"
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate"
-  video: ""
+  complexity: "Beginner"
+  video: "//www.youtube.com/embed/wZXjoMMigJU"
+-
+  id: 004
+  title: "Break it. To make it."
+  description: "<p>Testers vs Developers - should they fight to the death, or hug it out?</p><p>Software Quality Assurance area has been growing over the past few years. It's becoming more common each day to have testing teams working along with developers with the common goal of delivering software good enough to make them proud. In fact these two old enemies have become more close each day and this interaction has been proved decisive when it comes to software quality. But not everything is a fairy tale with a happy ending. Specially when it comes to mobile testing there are many challenges to overcome. Software complexity is increasing and the market is becoming more demanding. We want to do better and faster and cheaper. How to achieve that? For many organizations Automation is the answer. Want it faster? Automate. Want it cheaper? Automate. And then, you will have better. Is this the magical formula?</p><p>On this talk I will cover this topics, do some demonstrations and give some useful tips that developers can use to help testers on their QA quest.</p><p>Cause sometimes... the best way to make it, is to break it first.</p>"
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Beginner"
+  video: "//www.youtube.com/embed/Od9l-OGAXC8"
 -
   id: 200
   title: "Lunch"
@@ -63,7 +63,6 @@
   speakers: [3]
   language: en
   complexity: "Beginner"
-  video: "//www.youtube.com/embed/Vc1aS_EPOmo"
 -
   id: 006
   title: "To be announced"
@@ -72,7 +71,6 @@
   speakers: [6]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 007
   title: "To be announced"
@@ -81,7 +79,6 @@
   speakers: [7]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -  
   id: 300
   title: "Coffee Break"
@@ -96,7 +93,6 @@
   speakers: [8]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 009
   title: "To be announced"
@@ -105,7 +101,6 @@
   speakers: [9]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 120
   title: "Goodbye talk"
@@ -115,5 +110,4 @@
   speakers: [10]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
   
