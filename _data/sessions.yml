@@ -74,12 +74,12 @@
   video: "//www.youtube.com/embed/wZXjoMMigJU"
 -
   id: 007
-  title: "To be announced"
-  description: "To be announced."
+  title: "NDK: Native Android POS app, multiplatform porting"
+  description: "<p>Sage Software has a vast experience on Point of Sale software and, it's going multiplatform.</p><p>Looking at the POS terminals market, it's clear the future of this kind of hardware is Android so, after Windows and Linux, the time has come for this platform.</p><p>One year ago, a project was started to port an existing C++ software for Android and this is it story:</p><p>- The NDK tricks</p><p>- C++ compiler and Java wrapper interaction</p><p>- How to Debug native apps</p><p>- The SDL graphic library</p><p>- The Heartbleed problem</p><p>- The ARM and x86 architectures support</p><p>By now, the app is selling on the Play Store and sucessfully bringing traditional desktop customers to Android platform.</p>"
   subtype: presentation
   speakers: [7]
   language: en
-  complexity: "Intermediate"
+  complexity: "Advanced"
 -  
   id: 300
   title: "Coffee Break"

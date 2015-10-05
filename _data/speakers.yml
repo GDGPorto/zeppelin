@@ -84,26 +84,16 @@
     - {name: "google-plus", link: "https://plus.google.com/+SergiMart%C3%ADnez/posts"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergimartinezlopez"}
 -
- #  id: 6
-  #  name: "Sérgio"
-  #  surname: "Rodrigues"
-  #  company: "Sage Portugal"
-  #  title: ""
-  #  bio: "<p>He is and Engineer and Entrepreneur who has been, for most of his life, developing new products, finding new ways of using cutting edge technology to achieve the simplest goals.</p><p>He started working during University, and by 1996, his first real job was developing electronics on a huge hardware company. By 2000 he was CTO – Chief Technology Officer – of a leading hospitality software company.</p><p>In 2006 he started his first company and by now he has co-founded and sold a number of software technology companies. He has lived and done business in London, Hong Kong and Singapore but, currently, besides being product manager at Sage he is also Mentor at UPTEC and Business Angel</p><p>Like many serial entrepreneurs, he has many things going on at once.</p>"
-  #  thumbnailUrl: speaker_sergio_rodrigues.jpg
-  #  rockstar: false
-  #  social:
-  #    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
   id: 7
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
+  name: "Sérgio"
+  surname: "Rodrigues"
+  company: "Sage Portugal"
+  title: ""
+  bio: "<p>He is and Engineer and Entrepreneur who has been, for most of his life, developing new products, finding new ways of using cutting edge technology to achieve the simplest goals.</p><p>He started working during University, and by 1996, his first real job was developing electronics on a huge hardware company. By 2000 he was CTO – Chief Technology Officer – of a leading hospitality software company.</p><p>In 2006 he started his first company and by now he has co-founded and sold a number of software technology companies. He has lived and done business in London, Hong Kong and Singapore but, currently, besides being product manager at Sage he is also Mentor at UPTEC and Business Angel</p><p>Like many serial entrepreneurs, he has many things going on at once.</p>"
+  thumbnailUrl: speaker_sergio_rodrigues.jpg
   rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
+#    social:
+#      - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
   id: 8
   name: "Soon"
