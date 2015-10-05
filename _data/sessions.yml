@@ -30,16 +30,16 @@
   title: "Coffee Break"
   description: "The best time to talk with speakers and attendees"
   place: "Hall da UPTEC"
-  service: true  
+  service: true
 -
   id: 003
-  title: "Cardboard, a user's perspective"
-  description: "<p>Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?</p>"
+  title: "Android Data Binding"
+  description: "<p>In the I/O 15 Google introduced the Android data binding. This technology is going to change the way we create and manage Android interfaces (for good), and we will be able to use mature patterns like MVVM to drastically reduce the amount of code in our Activities and Fragments.</p><p>Despite being a technology still in beta phase and not ready for production, we will learn how it works to be ready to use it from the first day when finally published."
   subtype: presentation
-  speakers: [4]
+  speakers: [6]
   language: en
-  complexity: "Beginner"
-  video: "//www.youtube.com/embed/wZXjoMMigJU"
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/ndBdf1_oOGA"
 -
   id: 004
   title: "Break it. To make it."
@@ -65,12 +65,13 @@
   complexity: "Beginner"
 -
   id: 006
-  title: "To be announced"
-  description: "To be announced."
+  title: "Cardboard, a user's perspective"
+  description: "<p>Think about a very good restaurant... Have you seen the kitchen? No? Probably is a huge mess. But will this fact change your dinner experience? Maybe not if it all works fine.</p><p>As customers we won't go to the restaurant thinking about the kitchen but for the food, the nice environment, the friendliness of the staff , among other variables.</p><p>In the end, all of these variables make you have (or not) a good dinner experience. This is what happens with any product or service and it's called User eXperience.</p><p>The Google Cardboard is a good example where you can have an awesome user eXperience of virtual reality while only spending 5 euros and owning a smartphone.</p><p>Why not take it for a spin?</p>"
   subtype: presentation
-  speakers: [6]
+  speakers: [4]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
+  video: "//www.youtube.com/embed/wZXjoMMigJU"
 -
   id: 007
   title: "To be announced"

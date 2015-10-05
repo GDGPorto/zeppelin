@@ -6,12 +6,12 @@
   title: "Software Engineer"
   bio: "<p>Carlos is a strong believer that the answer to life, the universe and everything is 42. </p><p>He has been developing mobile applications for 4 years now. He first met Android during his master thesis at the University of Coimbra, Portugal – it was wa rough start (although way better than Java ME); Cupcake was still on an early stage but since then we’ve come a long way and it is now a breeze developing for Lollipop – with an extraordinary new (material) design - and at the time of this writing, to Marshmallow. </p><p>        Working at WIT Software he has been developing several applications – currently you can find him working on the company RCSe applications for Android.</p>"
   thumbnailUrl: speaker_carlos_mota.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/113424350630896111871/posts"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/pub/carlos-mota/50/4b1/43"}
     - {name: "twitter", link: "https://twitter.com/cafonsomota"}
     - {name: "github", link: "https://github.com/cmota"}
-    - {name: "linkedin", link: "https://pt.linkedin.com/pub/carlos-mota/50/4b1/43"}
 -
   id: 2
   name: "José"
@@ -20,13 +20,13 @@
   title: "Software Engineer"
   bio: "<p>José believes that music is the key to solving all problems. If you find someone in our offices waving his arms at the sound a good song you probably have met José. </p><p>He has been developing mobile applications for 5 years and enterprise applications for the last 2. He developed his first mobile enterprise application during his Masters in Informatics and Computer Engineering at University of Porto and is working at Critical Manufacturing since 2013. </p><p>He currently leads the amazing team of engineers and designers working on the new cmNavigo’s interface and is part of the Navigo’s core development and support team. </p><p>When he is not working you can find him volunteering for IEEE as Portugal Section Vice-Chair or playing tuba at several music ensembles in north Portugal.</p>"
   thumbnailUrl: speaker_jose_silva.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JoséPedroSilva_jpsfs/"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/in/jpsfs/en"}
     - {name: "twitter", link: "http://twitter.com/jpsfs"}
     - {name: "github", link: "https://github.com/jpsfs"}
-    - {name: "linkedin", link: "https://pt.linkedin.com/in/jpsfs/en"}
-- 
+-
   id: 3
   name: "Víctor"
   surname: "Sanchéz"
@@ -37,7 +37,7 @@
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/v-ctor-s-nchez-belmar"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+V%C3%ADctorS%C3%A1nchezBelmar/posts"}
     - {name: "twitter", link: "https://twitter.com/VictorSanchez"}
 -
@@ -50,8 +50,14 @@
   title: "UX Expert"
   bio: "<p>Sofia is an Usability and UX expert. In 2004 she began working in the media and design for dFUSION, an advertising agency, working in design, web application development, marketing, among others.</p><p>In 2009 she had the opportunity to start collaborating with i2S, specializing in myGIS portal interface, in the last to years she has launched the UX area for i2S.</p><p>Completely crazy, says many bad words, colleagues like to say ''Bom dia, Sofia'' regardless of time of day, is treated as ''one of the guys'' and is said to be pregnant for more than three years!</p><p><br/></p><p>Fábio is a frontend specialist and is reading for his Masters in Architecture, Systems and Networks. In 2011 he started the collaboration with i2S, usability team where he exudes AngularJS every day.</p><p>He aims to finish his thesis before retirement. Do not talk to him before 10 am, or call him to congratulate him on his birthday before 4PM. There is a  rumor that his ''boss'' hits him and recently hired a karate specialist to help her!</p>"
   thumbnailUrl: speaker_sofia_fabio1.JPG
-  rockstar: true
-- 
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+SofiaAlvesRodrigues"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/in/sofiaalves"}
+    - {name: "google-plus", link: "https://plus.google.com/+FabioAlves32246"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/pub/fábio-alves/98/a19/a8b"}
+#    - {name: "twitter", link: "https://twitter.com/sofiafilalves"}
+-
   id: 5
   name: "Miriam"
   surname: "Lopes"
@@ -59,22 +65,35 @@
   title: "QA Engineer"
   bio: "<p>Miriam once dreamed about becoming a well-known writer. Well... that didn't worked out.</p><p>Now, she is a QA Engineer at WIT Software and the things she writes are test plans, test automation scripts and test reports. She has been testing over the past few years, manually and automatically, several Android applications that are used by millions of people worldwide.</p><p>As a part of WIT Software, she believes that good is not enough and that is why the pursuit for excellence is the every day challenge. Breaking applications can be fun, but the main goal is to deliver software that is compliant with WIT high quality standards."
   thumbnailUrl: speaker_miriam_lopes.JPG
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+Miriamlopesgoogle"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/miriamlopes"}
-- 
+-
   id: 6
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
-  rockstar: false
+  name: "Sergi"
+  surname: "Martínez"
+  company: "Worldline Iberia"
+  title: "R+D Mobile Lead"
+  bio: "<p>Sergi is the Mobility R+D lead of Worldine Iberia, before that, he worked leading several Android teams. He also worked many years in the localisation industry.<p></p>He's a fan of communities and collaborated with many of them, also he was one the founders of Catdroid, the Catalonia Android Community.<p></p>Last year he was honored as GDE (Google Developer Expert) on Android by Google for his contribution to the Android community."
+  thumbnailUrl: speaker_sergi_matinez.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/sergi-martinez"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
-- 
+    - {name: "google-plus", link: "https://plus.google.com/+SergiMart%C3%ADnez/posts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sergimartinezlopez"}
+-
+ #  id: 6
+  #  name: "Sérgio"
+  #  surname: "Rodrigues"
+  #  company: "Sage Portugal"
+  #  title: ""
+  #  bio: "<p>He is and Engineer and Entrepreneur who has been, for most of his life, developing new products, finding new ways of using cutting edge technology to achieve the simplest goals.</p><p>He started working during University, and by 1996, his first real job was developing electronics on a huge hardware company. By 2000 he was CTO – Chief Technology Officer – of a leading hospitality software company.</p><p>In 2006 he started his first company and by now he has co-founded and sold a number of software technology companies. He has lived and done business in London, Hong Kong and Singapore but, currently, besides being product manager at Sage he is also Mentor at UPTEC and Business Angel</p><p>Like many serial entrepreneurs, he has many things going on at once.</p>"
+  #  thumbnailUrl: speaker_sergio_rodrigues.jpg
+  #  rockstar: false
+  #  social:
+  #    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
   id: 7
   name: "Soon"
   surname: "..."
