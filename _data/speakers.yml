@@ -120,9 +120,20 @@
   thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
+    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 -
   id: 10
+  name: "Soon"
+  surname: "..."
+  company: "-"
+  title: "-"
+  bio: "..."
+  thumbnailUrl: tobeconfirmed.png
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+-
+  id: 11
   name: "GDG"
   surname: "Porto"
   company: "Opening Keynote"
@@ -131,4 +142,4 @@
   thumbnailUrl: gdg.png
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
+    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}

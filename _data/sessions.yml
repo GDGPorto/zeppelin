@@ -103,12 +103,20 @@
   language: en
   complexity: "Intermediate"
 -
+  id: 010
+  title: "To be announced"
+  description: "To be announced."
+  subtype: presentation
+  speakers: [10]
+  language: en
+  complexity: "Intermediate"
+-
   id: 120
   title: "Goodbye talk"
   place: "Auditório UPTEC"
   description: "A farwell with some prizes? Who knows..."
   subtype: keynote
-  speakers: [10]
+  speakers: [11]
   language: en
   complexity: "Intermediate"
   
