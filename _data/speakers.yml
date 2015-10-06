@@ -100,11 +100,10 @@
   surname: "Ibáñez"
   company: "GDG Lleida"
   title: "GDG Lead organizer"
-  bio: "<p>Andreu Ibanez is a Google Developer Expert, Google Developers Group Lleida Founder and lead organizer, Member of GDG Spain, Google Glass Explorer, Mentor admin and speaker Google Summer of Code, Founder Google Liquid Galaxy LAB, The Physical Web Google IoT proposal expert and speaker, Founder Lleida Drone, and Project Manager at Ponent 2002, a SMB located in Lleida, Spain, specialized in IT R+D+i projects.</p><p>Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google, being Project Tango tester and authorized speaker, and working on several Cardboard VR projects in education, tourism, cinema and marketing.</p>"
+  bio: "<p>Andreu Ibanez is a Google Expert, Google Developers Group Lleida Founder and lead organizer, Member of GDG Spain, Google Glass Explorer, Mentor admin and speaker Google Summer of Code, Founder Google Liquid Galaxy LAB, The Physical Web Google IoT proposal expert and speaker, Founder Lleida Drone, and Project Manager at Ponent 2002, a SMB located in Lleida, Spain, specialized in IT R+D+i projects.</p><p>Among many other projects Andreu is now working with Virtual and Augmented Reality tools from Google, being Project Tango tester and authorized speaker, and working on several Cardboard VR projects in education, tourism, cinema and marketing.</p>"
   thumbnailUrl: speaker_andreu_ibanez.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "#"}
     - {abbr: "GDG", title: "Google Developer Group Lledia", url: "https://developers.google.com/groups/chapter/107962088655881499591/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+Andreuibanez/"}
