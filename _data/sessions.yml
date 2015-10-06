@@ -88,12 +88,12 @@
   service: true 
 -
   id: 008
-  title: "To be announced"
-  description: "To be announced."
+  title: "The Project Tango from Google, understanding the surroundings"
+  description: "Google's Project Tango incorporates advanced computer vision capacities for the Android platform, using real time image processing techniques and special sensors. With many possible applications, Project Tango will shine on motion tracking, 3D sensing, and depth perception applications that developers are started to work on.</p><p>The talk will explain about the system abilities, explore some use cases, and have a live demo on stage and screen."
   subtype: presentation
   speakers: [8]
   language: en
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 009
   title: "To be announced"
