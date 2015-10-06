@@ -134,13 +134,15 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 -
-  id: 11
+  id: 20
   name: "GDG"
   surname: "Porto"
-  company: "Opening Keynote"
-  title: "GDG Porto Organizers"
-  bio: ""
+  company: "GDG Porto Organizers"
+  title: "A word from the staff"
+  bio: "André Silva, João Raimundo and Pedro Vicente"
   thumbnailUrl: gdg.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+
+
