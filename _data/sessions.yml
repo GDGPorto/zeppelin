@@ -4,7 +4,7 @@
   place: "Auditório UPTEC"
   description: "A warm welcome for all"
   subtype: keynote
-  speakers: [10]
+  speakers: [20]
   language: en
   complexity: "Beginner"
 -
@@ -114,9 +114,9 @@
   id: 120
   title: "Goodbye talk"
   place: "Auditório UPTEC"
-  description: "A farwell with some prizes? Who knows..."
+  description: "A farwell.. and an announcement? Who knows..."
   subtype: keynote
-  speakers: [11]
+  speakers: [20]
   language: en
   complexity: "Intermediate"
   
