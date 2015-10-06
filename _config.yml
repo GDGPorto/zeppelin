@@ -50,10 +50,10 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  
 bottomNavigationLinks:
- - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit our paper for our next event!')", text: "Become a speaker"}
+ - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit your paper for our next event!')", text: "Become a speaker"}
 
 rightNavigationButtons:
- - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit our paper for our next event!')", text: "Become a speaker"}
+ - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit your paper for our next event!')", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "October, 2015"
 typeoutTextValues: '"", "OPorto", "Portugal", "Porto"'
 typeoutFallback: "Porto"
 heroButtons:
- - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit our paper for our next event!')", text: "Become a speaker"}
+ - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit your paper for our next event!')", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Get a ticket"}
 
 # About Block
