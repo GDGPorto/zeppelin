@@ -9,23 +9,21 @@
   complexity: "Beginner"
 -
   id: 001
-  title: "Android TV Strangelove"
-  description: "<p>The concept of a single device has been depreciated for years now. We have a smartphone on our pockets, a smartwatch on our wrists, a laptop on our desks, a tablet on our backpacks, a TV on our living rooms, etc. and although we have this diversity of devices, only recently they learn about the existence of each other and started to interact.</p><p>Ideas like receiving a call on our phones and answer it instead on the computer or using our devices as remote controls for a TV game are now possible.</p><p>Over the last years, our televisions have been losing our attention. They became difficult to use - we no longer have a small number of channels or 9 to 5 schedules which allowed us to watch a specific movie at a defined time -  for example, we want to watch a movie after a long day at work without pressing dozens of buttons and without watching through long commercials. </p><p>We want the same experience that we have on our computers or tablets. Manufacturers have been attempting to solve this problem by filling our TV’s with a large amount of applications that we might have opened once to see how they work - and well… they are still there… somewhere. From the last two Google I/O's, Google has been focused on releasing what they believe to be next TV experience - Android TV. Their proposal is an android set top box along with a new support library - leanback - as well as a defined set of designing rules which will allow the user to take the best experience from their TV’s. Moreover, you can use your mobile phone as a secondary device/or remote control increasing the number of features available and providing new ways to interact with your TV. On this talk I’m planning to give an overview of what is possible to do with this new system along with some code samples - what to do, why to do it and how you can do it, examples and pitfalls to avoid.</p>"
+  title: "NDK: Native Android POS app, multiplatform porting"
+  description: "<p>Sage Software has a vast experience on Point of Sale software and, it's going multiplatform.</p><p>Looking at the POS terminals market, it's clear the future of this kind of hardware is Android so, after Windows and Linux, the time has come for this platform.</p><p>One year ago, a project was started to port an existing C++ software for Android and this is it story:</p><p>- The NDK tricks</p><p>- C++ compiler and Java wrapper interaction</p><p>- How to Debug native apps</p><p>- The SDL graphic library</p><p>- The Heartbleed problem</p><p>- The ARM and x86 architectures support</p><p>By now, the app is selling on the Play Store and sucessfully bringing traditional desktop customers to Android platform.</p>"
   subtype: presentation
-  speakers: [1]
+  speakers: [7]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/ASZbArr7vdI"
+  complexity: "Advanced"
 -
   id: 002
-  title: "Angular 2 - Building Enterprise Apps"
-  description: "<p>In a rapidly changing environment as is the Web, developing enterprise applications, destined to be in production for decades, is a serious undertaking. Choosing the right framework to work with can have the same impact as choosing the person you will be marrying: have you thought that it may be easier to change spouses than replacing an entire enterprise system?</p><p>At Critical Manufacturing we are building the next generation of our flagship product cmNavigo for the web and mobile devices. Using Angular 2, Typescript and Flux at its core, the new cmNavigo interface is designed to be used 24/7 by thousands of users every day in cross-platform and different size form devices across the world.</p><p>In this talk I will share the latest development challenges we are facing and how we are modeling the system to have the performance and stability our customers demand. We will explore how Angular 2 latest alphas are helping us moving in the right direction, embracing new standards and how we are managing our development environments to increase productivity.</p>"
+  title: "Firebase Adventures - How to create extraordinary apps with Firebase & AngularJS"
+  description: "<p>Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app.</p><p>Firebase Adventures is a talk about how to use Firebase in different ways, for DevFest Porto  we'll focus also in how you can combine Firebase & AngularJS using AngularFire, the Firebase's official binding for Angular.</p>"
   subtype: presentation
-  speakers: [2]
+  speakers: [9]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/3e1LK1KMCr0"
--  
+  complexity: "Beginner"
+-
   id: 100
   title: "Coffee Break"
   description: "The best time to talk with speakers and attendees"
@@ -74,34 +72,36 @@
   video: "//www.youtube.com/embed/wZXjoMMigJU"
 -
   id: 007
-  title: "NDK: Native Android POS app, multiplatform porting"
-  description: "<p>Sage Software has a vast experience on Point of Sale software and, it's going multiplatform.</p><p>Looking at the POS terminals market, it's clear the future of this kind of hardware is Android so, after Windows and Linux, the time has come for this platform.</p><p>One year ago, a project was started to port an existing C++ software for Android and this is it story:</p><p>- The NDK tricks</p><p>- C++ compiler and Java wrapper interaction</p><p>- How to Debug native apps</p><p>- The SDL graphic library</p><p>- The Heartbleed problem</p><p>- The ARM and x86 architectures support</p><p>By now, the app is selling on the Play Store and sucessfully bringing traditional desktop customers to Android platform.</p>"
+  title: "Angular 2 - Building Enterprise Apps"
+  description: "<p>In a rapidly changing environment as is the Web, developing enterprise applications, destined to be in production for decades, is a serious undertaking. Choosing the right framework to work with can have the same impact as choosing the person you will be marrying: have you thought that it may be easier to change spouses than replacing an entire enterprise system?</p><p>At Critical Manufacturing we are building the next generation of our flagship product cmNavigo for the web and mobile devices. Using Angular 2, Typescript and Flux at its core, the new cmNavigo interface is designed to be used 24/7 by thousands of users every day in cross-platform and different size form devices across the world.</p><p>In this talk I will share the latest development challenges we are facing and how we are modeling the system to have the performance and stability our customers demand. We will explore how Angular 2 latest alphas are helping us moving in the right direction, embracing new standards and how we are managing our development environments to increase productivity.</p>"
   subtype: presentation
-  speakers: [7]
+  speakers: [2]
   language: en
-  complexity: "Advanced"
--  
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/3e1LK1KMCr0"
+-
   id: 300
   title: "Coffee Break"
   description: "The best time to talk with speakers and attendees"
   place: "Hall da UPTEC"
-  service: true 
+  service: true
 -
   id: 008
+  title: "Android TV Strangelove"
+  description: "<p>The concept of a single device has been depreciated for years now. We have a smartphone on our pockets, a smartwatch on our wrists, a laptop on our desks, a tablet on our backpacks, a TV on our living rooms, etc. and although we have this diversity of devices, only recently they learn about the existence of each other and started to interact.</p><p>Ideas like receiving a call on our phones and answer it instead on the computer or using our devices as remote controls for a TV game are now possible.</p><p>Over the last years, our televisions have been losing our attention. They became difficult to use - we no longer have a small number of channels or 9 to 5 schedules which allowed us to watch a specific movie at a defined time -  for example, we want to watch a movie after a long day at work without pressing dozens of buttons and without watching through long commercials. </p><p>We want the same experience that we have on our computers or tablets. Manufacturers have been attempting to solve this problem by filling our TV’s with a large amount of applications that we might have opened once to see how they work - and well… they are still there… somewhere. From the last two Google I/O's, Google has been focused on releasing what they believe to be next TV experience - Android TV. Their proposal is an android set top box along with a new support library - leanback - as well as a defined set of designing rules which will allow the user to take the best experience from their TV’s. Moreover, you can use your mobile phone as a secondary device/or remote control increasing the number of features available and providing new ways to interact with your TV. On this talk I’m planning to give an overview of what is possible to do with this new system along with some code samples - what to do, why to do it and how you can do it, examples and pitfalls to avoid.</p>"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/ASZbArr7vdI"
+-
+  id: 009
   title: "The Project Tango from Google, understanding the surroundings"
   description: "Google's Project Tango incorporates advanced computer vision capacities for the Android platform, using real time image processing techniques and special sensors. With many possible applications, Project Tango will shine on motion tracking, 3D sensing, and depth perception applications that developers are started to work on.</p><p>The talk will explain about the system abilities, explore some use cases, and have a live demo on stage and screen."
   subtype: presentation
   speakers: [8]
   language: en
   complexity: "Basic"
--
-  id: 009
-  title: "To be announced"
-  description: "To be announced."
-  subtype: presentation
-  speakers: [9]
-  language: en
-  complexity: "Intermediate"
 -
   id: 010
   title: "To be announced"

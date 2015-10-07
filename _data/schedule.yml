@@ -1,6 +1,6 @@
 - 
   date: "2015-10-17"
-  dateReadable: "October 17"
+  dateReadable: "October 17 <b>(order and hours are subject to change)</b>"
   tracks: 
     - {title: "Google Techs", color: "#90be4e"}
   timeslots:

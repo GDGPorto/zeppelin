@@ -112,15 +112,20 @@
     - {name: "site", link: "http://www.andreuibanez.com/"}
 -
   id: 9
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
-  rockstar: false
+  name: "Juarez"
+  surname: "Filho"
+  company: "madewithlove"
+  title: "Front End Engineer"
+  bio: "<p>Juarez Filho is an enthusiastic Front end Engineer with over 7 years of experience, started his career as backend developer, but with his first CSS class he devoted completely to Front End and UX.</p><p>Currently building things with love at @madewithlove and also a GDG Organizer spreading the awesome Google Technologies mainly Firebase and web related topics.</p>"
+  thumbnailUrl: speaker_juarez_filho.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Maceió", url: "https://developers.google.com/groups/chapter/105591078626334574818/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+    - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho/"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/juarezpaf"}
+    - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+    - {name: "github", link: "https://github.com/juarezpaf"}
 -
   id: 10
   name: "Soon"
