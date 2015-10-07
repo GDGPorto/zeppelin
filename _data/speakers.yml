@@ -128,15 +128,15 @@
     - {name: "github", link: "https://github.com/juarezpaf"}
 -
   id: 10
-  name: "Soon"
-  surname: "..."
-  company: "-"
-  title: "-"
-  bio: "..."
-  thumbnailUrl: tobeconfirmed.png
+  name: "Ricardo"
+  surname: "Carneiro"
+  company: "Blip"
+  title: "Frontend Developer"
+  bio: "<p>Rui obtained his masters in software engineering in 2009 but his love for Javascript started before that. He has always been passionate about web technologies and he is a member of the restricted group of developers that loves CSS.</p><p>He is a science enthusiast, a gamer geek and he has the unique ability of finding the weirdest things on the internet.</p>"
+  thumbnailUrl: speaker_ricardo_carneiro.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
+    - {name: "linkedin", link: "https://pt.linkedin.com/in/ruiarc"}
 -
   id: 20
   name: "GDG"

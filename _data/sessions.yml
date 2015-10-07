@@ -97,15 +97,15 @@
 -
   id: 009
   title: "The Project Tango from Google, understanding the surroundings"
-  description: "Google's Project Tango incorporates advanced computer vision capacities for the Android platform, using real time image processing techniques and special sensors. With many possible applications, Project Tango will shine on motion tracking, 3D sensing, and depth perception applications that developers are started to work on.</p><p>The talk will explain about the system abilities, explore some use cases, and have a live demo on stage and screen."
+  description: "<p>Google's Project Tango incorporates advanced computer vision capacities for the Android platform, using real time image processing techniques and special sensors. With many possible applications, Project Tango will shine on motion tracking, 3D sensing, and depth perception applications that developers are started to work on.</p><p>The talk will explain about the system abilities, explore some use cases, and have a live demo on stage and screen.</p>"
   subtype: presentation
   speakers: [8]
   language: en
   complexity: "Basic"
 -
   id: 010
-  title: "To be announced"
-  description: "To be announced."
+  title: "AngularJS: Building and maintaining a large scale application"
+  description: "<p>At Blip we are currently rebuilding all our products and transforming them into single page apps. Application performance and fast releases are key points for the business.</p><p>In this talk I will share our current developing process, how do we handle weekly releases, how we manage to have more than 10 teams working on different projects sharing code and how AngularJs eases this process.</p>"
   subtype: presentation
   speakers: [10]
   language: en
