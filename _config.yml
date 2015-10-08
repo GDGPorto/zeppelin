@@ -209,9 +209,9 @@ directionDetailsWideCards:
     links:
      - {link: "http://www.accorhotels.com/gb/hotel-3227-ibis-porto-sao-joao/index.shtml", text: "IBIS Porto São João Hotel"}
    -
-    title: "Registration"
+    title: "How to get to UPTEC"
     links:
-     - {link: "http://www.last2ticket.com/ev1317-Bilhetes-Online-GDG-DevFest-Porto-2015", text: "Get a ticket"}
+     - {link: "http://uptec.up.pt/sites/default/files/staff/itinerario_2.pdf", text: "Get here"}
    -
     title: "Attendance Details"
     links:
