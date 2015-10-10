@@ -6,76 +6,76 @@
   timeslots:
     - {
     	startTime: "9:00",
-    	endTime: "9:30",
+    	endTime: "9:15",
     	sessionIds: [110]
     }
     - {
-    	startTime: "9:30",
-    	endTime: "10:15",
+    	startTime: "9:15",
+    	endTime: "9:50",
     	sessionIds: [001]
     }
     - {
-      startTime: "10:15",
-      endTime: "11:00",
+      startTime: "9:50",
+      endTime: "10:20",
       sessionIds: [002]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:30",
+    	startTime: "10:20",
+    	endTime: "11:00",
     	sessionIds: [100]
     }
     - {
-    	startTime: "11:30",
-    	endTime: "12:15",
+    	startTime: "11:00",
+    	endTime: "11:45",
     	sessionIds: [003]
     }
     - {
-    	startTime: "12:15",
-    	endTime: "13:00",
+    	startTime: "11:45",
+    	endTime: "12:30",
     	sessionIds: [004]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "14:00",
+    	startTime: "12:30",
+    	endTime: "13:30",
     	sessionIds: [200]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "14:45",
+    	startTime: "13:30",
+    	endTime: "14:15",
     	sessionIds: [005]
     }
     - {
-    	startTime: "14:45",
-    	endTime: "15:30",
+    	startTime: "14:15",
+    	endTime: "15:00",
     	sessionIds: [006]
     }
     - {
-    	startTime: "15:30",
-    	endTime: "16:15",
+    	startTime: "15:00",
+    	endTime: "15:45",
     	sessionIds: [007]
     }
     - {
-    	startTime: "16:15",
-    	endTime: "17:00",
+    	startTime: "15:45",
+    	endTime: "16:30",
     	sessionIds: [300]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "17:45",
+    	startTime: "16:30",
+    	endTime: "17:15",
     	sessionIds: [008]
     }
     - {
-    	startTime: "17:45",
-    	endTime: "18:30",
+    	startTime: "17:15",
+    	endTime: "18:00",
     	sessionIds: [009]
     }
     - {
-    	startTime: "18:30",
-    	endTime: "19:15",
+    	startTime: "18:00",
+    	endTime: "18:45",
     	sessionIds: [010]
     }
     - {
-    	startTime: "19:15",
-    	endTime: "19:30",
+    	startTime: "18:45",
+    	endTime: "19:00",
     	sessionIds: [120]
     }
