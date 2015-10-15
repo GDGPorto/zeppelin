@@ -1,0 +1,95 @@
+<!-- Begin Partners Section -->
+
+<script type="application/javascript">
+    var index = 1;
+    setInterval(function(){
+        var current = document.getElementById("partners_"+index);
+        if(!current){
+            index = 1;
+            current = document.getElementById("partners_"+index);
+        }
+        current.style.display = "none";
+        index++;
+        var next = document.getElementById("partners_"+index);
+        if(!next){
+            index = 1;
+            next = document.getElementById("partners_"+index);
+        }
+        next.style.display = "block";
+    }, 7000);
+
+    var timeoutId, limitTime = 0;
+    window.setTimer = function(interval){
+        var elem = document.getElementById("timer");
+        window.hideTimer();
+        if(interval){
+            limitTime = Date.now() + 900 + interval * 60 *1000;
+
+            var updateTimer;
+            updateTimer = function(){
+                var diff = limitTime - Date.now();
+                if(diff < 0){
+                    window.hideTimer();
+                    return;
+                }
+
+                var date = new Date(diff);
+                var minutes = ("0" + date.getMinutes()).substr(-2);
+                var seconds = ("0" + date.getSeconds()).substr(-2);
+
+                if(parseInt(minutes) <= 5){
+                    elem.style["background-color"] = "red";
+                }
+
+                elem.innerHTML = minutes + ":" + seconds;
+                timeoutId = setTimeout(updateTimer, 100);
+            };
+
+            timeoutId = setTimeout(updateTimer, 100);
+
+            elem.style["background-color"] = "green";
+            elem.innerHTML = interval + ":00";
+            window.showTimer();
+        }
+    };
+    window.hideTimer = function(){
+        var elem = document.getElementById("timer");
+        elem.style.display = "none";
+        if(timeoutId){
+            clearTimeout(timeoutId);
+        }
+    };
+    window.showTimer = function(){
+        var elem = document.getElementById("timer");
+        elem.style.display = "block";
+    }
+</script>
+<section id="partners" class="partners" style="padding-top: 0;">
+    <div id="timer" style="position: absolute;
+    background-color: green;
+    color: white;
+    display: none;
+    padding: 14px 20px;
+    font-size: 40px;
+    font-weight: 600;
+    "></div>
+    <div class="content-wrapper">
+        <img  onclick="setTimer(45)" src="{{ site.baseurl }}/img/organizers/devfest.png" style="padding-top: 20px;-webkit-filter: grayscale(0);filter: grayscale(0);height: 38em; width: auto">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for partner in site.data.partners %}
+            <ul id="partners_{{ forloop.index }}" class="list-inline"  {% if forloop.index != 1 %}style="display: none;"{% endif %} >
+                <h5>{{ partner.group }}</h5>
+                {% for element in partner.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img style="-webkit-filter: grayscale(0);filter: grayscale(0);" src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+</section>
+<!-- End Partners Section -->
+
