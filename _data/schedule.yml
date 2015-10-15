@@ -1,6 +1,6 @@
 - 
   date: "2015-10-17"
-  dateReadable: "October 17 <b>(order and hours are subject to change)</b>"
+  dateReadable: "October 17"
   tracks: 
     - {title: "Google Techs", color: "#90be4e"}
   timeslots:
@@ -31,51 +31,51 @@
     }
     - {
     	startTime: "11:45",
-    	endTime: "12:30",
+    	endTime: "12:20",
     	sessionIds: [004]
     }
     - {
-    	startTime: "12:30",
-    	endTime: "13:30",
+    	startTime: "12:20",
+    	endTime: "13:40",
     	sessionIds: [200]
     }
     - {
-    	startTime: "13:30",
-    	endTime: "14:15",
+    	startTime: "13:40",
+    	endTime: "14:25",
     	sessionIds: [005]
     }
     - {
-    	startTime: "14:15",
-    	endTime: "15:00",
+    	startTime: "14:25",
+    	endTime: "15:10",
     	sessionIds: [006]
     }
     - {
-    	startTime: "15:00",
-    	endTime: "15:45",
+    	startTime: "15:10",
+    	endTime: "15:55",
     	sessionIds: [007]
     }
     - {
-    	startTime: "15:45",
-    	endTime: "16:30",
+    	startTime: "15:55",
+    	endTime: "16:40",
     	sessionIds: [300]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "17:15",
+    	startTime: "16:40",
+    	endTime: "17:25",
     	sessionIds: [008]
     }
     - {
-    	startTime: "17:15",
-    	endTime: "18:00",
+    	startTime: "17:25",
+    	endTime: "18:10",
     	sessionIds: [009]
     }
     - {
-    	startTime: "18:00",
-    	endTime: "18:45",
+    	startTime: "18:10",
+    	endTime: "18:55",
     	sessionIds: [010]
     }
     - {
-    	startTime: "18:45",
-    	endTime: "19:00",
+    	startTime: "18:55",
+    	endTime: "19:10",
     	sessionIds: [120]
     }
