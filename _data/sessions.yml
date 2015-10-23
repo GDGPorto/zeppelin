@@ -7,6 +7,7 @@
   speakers: [20]
   language: en
   complexity: "Beginner"
+  video: "//www.youtube.com/embed/_EiSl7Rfp_I"
 -
   id: 001
   title: "NDK: Native Android POS app, multiplatform porting"
@@ -15,6 +16,7 @@
   speakers: [7]
   language: en
   complexity: "Advanced"
+  video: "//www.youtube.com/embed/CK5hDk1a1gQ"
 -
   id: 002
   title: "Firebase Adventures - How to create extraordinary apps with Firebase & AngularJS"
@@ -23,6 +25,7 @@
   speakers: [9]
   language: en
   complexity: "Beginner"
+  video: "//www.youtube.com/embed/-s5sXLJpDN8"
 -
   id: 100
   title: "Coffee Break - This will be FREE thanks to our generous sponsors!"
@@ -37,7 +40,7 @@
   speakers: [6]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/ndBdf1_oOGA"
+  video: "//www.youtube.com/embed/xdA5mHw47hM"
 -
   id: 004
   title: "Break it. To make it."
@@ -46,7 +49,7 @@
   speakers: [5]
   language: en
   complexity: "Beginner"
-  video: "//www.youtube.com/embed/Od9l-OGAXC8"
+  video: "//www.youtube.com/embed/x9Cn9W7sgVw"
 -
   id: 200
   title: "Lunch - This will be FREE thanks to our generous sponsors!"
@@ -61,7 +64,7 @@
   speakers: [4]
   language: pt
   complexity: "Beginner"
-  video: "//www.youtube.com/embed/wZXjoMMigJU"
+  video: "//www.youtube.com/embed/reahAICvChw"
 -
   id: 006
   title: "WebComponentes, Polymer and the new web"
@@ -70,6 +73,7 @@
   speakers: [3]
   language: en
   complexity: "Beginner"
+  video: "//www.youtube.com/embed/IjrWbYdiENk"
 -
   id: 007
   title: "Angular 2 - Building Enterprise Apps"
@@ -78,7 +82,7 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/3e1LK1KMCr0"
+  video: "//www.youtube.com/embed/r-pUWh1Y_FI"
 -
   id: 300
   title: "Coffee Break - This will be FREE thanks to our generous sponsors!"
@@ -93,7 +97,7 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/ASZbArr7vdI"
+  video: "//www.youtube.com/embed/eHg9zoZ-C7Y"
 -
   id: 009
   title: "The Project Tango from Google, understanding the surroundings"
@@ -102,6 +106,7 @@
   speakers: [8]
   language: en
   complexity: "Basic"
+  video: "//www.youtube.com/embed/PSeZU784A-M"
 -
   id: 010
   title: "AngularJS: Building and maintaining a large scale application"
@@ -110,6 +115,7 @@
   speakers: [10]
   language: en
   complexity: "Intermediate"
+  video: "//www.youtube.com/embed/1QxcBF_EF4k"
 -
   id: 120
   title: "Goodbye talk"
@@ -119,4 +125,4 @@
   speakers: [20]
   language: en
   complexity: "Intermediate"
-  
+  video: "//www.youtube.com/embed/7ibPrWsktq4"
