@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://goo.gl/forms/L0JcpfQ2Rq"
+c4pUrl: "https://drive.google.com/folderview?id=0B4t8f8mOxexXdl9MZWozblRNQ28"
 c4sponsorsUrl: "/assets/Sponsors.pdf"
 
 
@@ -50,10 +50,10 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  
 bottomNavigationLinks:
- - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit your paper for our next event!')", text: "Become a speaker"}
+ - {link: "https://drive.google.com/folderview?id=0B4t8f8mOxexXdl9MZWozblRNQ28", text: "See how it was"}
 
 rightNavigationButtons:
- - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit your paper for our next event!')", text: "Become a speaker"}
+ - {link: "https://drive.google.com/folderview?id=0B4t8f8mOxexXdl9MZWozblRNQ28", text: "See how it was"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,8 +62,7 @@ eventDate: "October, 2015"
 typeoutTextValues: '"", "OPorto", "Portugal", "Porto"'
 typeoutFallback: "Porto"
 heroButtons:
- - {link: "javascript:alert('We have closed our C4P for 2015. We hope you submit your paper for our next event!')", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Get a ticket"}
+ - {link: "https://drive.google.com/folderview?id=0B4t8f8mOxexXdl9MZWozblRNQ28", text: "See how it was"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
